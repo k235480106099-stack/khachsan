@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏨 Hệ Thống Quản Lý Chuỗi 10 Khách Sạn (Hotel Management Multi-Site)
 
 Hệ thống quản lý chuỗi 10 khách sạn toàn diện, gồm 1 Web Tổng Quản Lý + 10 Website Khách Sạn Thành Viên + Phân Hệ Nhân Viên (Lễ Tân & Lao Công) + Cơ sở dữ liệu SQLite tự động tích hợp sẵn.
@@ -53,3 +54,6 @@ Truy cập: `http://localhost:3002` (Tài khoản lễ tân: `staff_hn` / Mật 
 2. 🚫 Cấm không được sử dụng, tàng trữ chất cấm, chất gây nghiện, chất dễ cháy nổ.
 3. 🚫 Không được gây gổ, đánh nhau làm mất trật tự và an ninh khách sạn.
 4. 🚫 Không được làm hư hại tài sản, trang thiết bị của khách sạn (bồi thường theo giá trị niêm yết).
+=======
+# khachsan
+>>>>>>> 9dddbad909f2b74fd27d90a9540efbbdc039c99e
